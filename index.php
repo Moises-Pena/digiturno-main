@@ -22,7 +22,7 @@ if($cerrar_session){
       content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"
     />
 
-    <title>Sistema de Digitur</title>
+    <title>Sistema de Digiturno</title>
 
     <meta name="description" content="" />
 
@@ -76,7 +76,7 @@ if($cerrar_session){
                   </div>
                 </div>
                 <div class="mb-3">
-                  <button class="btn btn-primary d-grid w-100" type="button" OnClick="Login()">Iniciar Session</button>
+                  <button class="btn btn-primary d-grid w-100" type="button" OnClick="Login()">Iniciar Sesion</button>
                 </div>
               </form>
             </div>
